@@ -1,0 +1,6 @@
+{
+  "_comment": "This file allows you to run the QBP_Bruteforce_Inventory_Update pipeline.",
+  "name": "QBP_Bruteforce_Inventory_Update.",
+  "description": "A Flex Template that allows you to run the QBP_Bruteforce_Inventory_Update pipeline with maximum three workers. Maximum expected time for this job is 3.5hrs.",
+  "parameters": []
+}
